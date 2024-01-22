@@ -46,3 +46,5 @@ Com.join()
 Gun1.join()
 Gun2.join()
 Gun3.join()
+
+print("Квадрат успешно отработан")
